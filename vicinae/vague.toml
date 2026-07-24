@@ -1,0 +1,64 @@
+[meta]
+version = 1
+name = "Vague"
+description = "Vague.nvim inspired low-contrast dark theme"
+variant = "dark"
+inherits = "vicinae-dark"
+
+[colors.core]
+background = "#141415"
+secondary_background = "#1c1c1f"
+foreground = "#cdcdcd"
+border = "#313244"
+accent = "#8caaee"
+
+[colors.accents]
+blue = "#8caaee"
+cyan = "#89dceb"
+green = "#a6d189"
+yellow = "#e5c890"
+orange = "#ef9f76"
+red = "#e78284"
+magenta = "#c6a0f6"
+purple = "#babbf1"
+
+[colors.surface]
+surface_0 = "#1c1c1f"
+surface_1 = "#252529"
+surface_2 = "#30303a"
+surface_3 = "#3c3c47"
+
+[colors.text]
+primary = "#cdcdcd"
+secondary = "#a8a8a8"
+muted = "#7f8490"
+disabled = "#5c6370"
+inverse = "#141415"
+
+[colors.state]
+success = "#a6d189"
+warning = "#e5c890"
+error = "#e78284"
+info = "#8caaee"
+
+[colors.selection]
+background = "#2f334d"
+foreground = "#ffffff"
+
+[colors.terminal]
+black = "#141415"
+red = "#e78284"
+green = "#a6d189"
+yellow = "#e5c890"
+blue = "#8caaee"
+magenta = "#c6a0f6"
+cyan = "#89dceb"
+white = "#cdcdcd"
+bright_black = "#5c6370"
+bright_red = "#ea999c"
+bright_green = "#b8e0a7"
+bright_yellow = "#edd49a"
+bright_blue = "#9db7f5"
+bright_magenta = "#d4b8ff"
+bright_cyan = "#99e2f2"
+bright_white = "#f2f2f2"
